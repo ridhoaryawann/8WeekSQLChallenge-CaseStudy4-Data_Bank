@@ -1,6 +1,6 @@
 # 8 Week SQL Challenge - Case Study #4: Data Bank
 
-![Header](image_url)
+![Header](image_url.png)
 
 This repository contains my solutions to Case Study #4: Data Bank from the [8 Week SQL Challenge](https://8weeksqlchallenge.com/), created by Danny Ma. I undertook this challenge to enhance my SQL skills and apply them to analyze banking data scenarios.
 
